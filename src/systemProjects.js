@@ -1,0 +1,6 @@
+export const systemProjects = [
+  { name: 'School Admission System', category: 'Education systems', brand: 'admit.', theme: 'admissions', tag: 'Admissions management', copy: 'An admissions concept for online applications, document review, applicant tracking, and admission decisions.', features: ['Online application forms and document uploads', 'Application review and status tracking', 'Admission decisions and applicant notifications'] },
+  { name: 'School Management System', category: 'Education systems', brand: 'campus.', theme: 'school', tag: 'School administration', copy: 'A school management concept connecting student records, attendance, timetables, assessments, and fee tracking.', features: ['Student records, class lists, and attendance', 'Timetables, assessments, and report cards', 'Fee tracking and parent communication'] },
+  { name: 'POS System', category: 'Business software', brand: 'counter.', theme: 'pos', tag: 'Point of sale', copy: 'A retail point-of-sale concept bringing checkout, receipts, inventory, and daily sales reporting into one workspace.', features: ['Product lookup, carts, and receipt generation', 'Inventory tracking and low-stock alerts', 'Daily sales summaries and cashier records'] },
+]
+

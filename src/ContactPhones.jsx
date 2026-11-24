@@ -1,0 +1,1 @@
+export default function ContactPhones() { return <div className="contact-phones" aria-label="Call Alpha Devs"><a href="tel:+233546535902">+233 54 653 5902</a><a href="tel:+233207175809">+233 20 717 5809</a></div> }
