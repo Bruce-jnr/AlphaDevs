@@ -1,0 +1,5 @@
+/* Applied before paint only when scroll animation support is available. */
+[data-scroll-pending] { opacity: 0; }
+@media (prefers-reduced-motion: reduce) {
+  [data-scroll-pending] { opacity: 1; }
+}
